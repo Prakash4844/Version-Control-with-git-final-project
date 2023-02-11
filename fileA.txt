@@ -1,2 +1,2 @@
-Feature 1 with 1 bugs.
+Feature 1.
 Feature 2 wip
